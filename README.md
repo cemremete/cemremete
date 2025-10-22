@@ -1,7 +1,7 @@
 ## Hi, I'm Cemre 👋
 
 👨‍💻 4th year student double majoring in Aeronautical Engineering and Management Information Systems <br>
-🎓 Based in Istanbul, Turkey - bridging aviation tech with data science<br>
+🎓 Based in Coimbra, Portugal - bridging aviation tech with data science<br>
 🌍 Making projects about environmental monitoring and real-time IoT systems<br>
 📈 Currently learning about geospatial analytics and dataviz
 
