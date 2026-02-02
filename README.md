@@ -67,63 +67,9 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
----
 
-## 🏆 Featured Projects
 
-### 🎲 [GameNight Organizer](https://github.com/cemremete) - Event Planning with Timezone Optimization
-**Tech:** Vue.js, React, Node.js, Go, PostgreSQL, Redis  
-- Microservices architecture for global event coordination with automated timezone conversions
-- React analytics dashboard with Redis caching reducing API response latency
-- Real-time event status tracking across multiple regions
 
-### ✈️ [SkyGuard](https://github.com/cemremete) - Flight Route Risk Analysis System  
-**Tech:** Vue.js, Leaflet.js, Apache Airflow, PostGIS, PostgreSQL  
-- Real-time flight tracking with ADS-B integration and NOAA meteorological data
-- **95% accuracy** in flight route safety assessments using satellite imagery
-- Apache Airflow orchestration reducing risk analysis from hours to **seconds**
-
-### ⚡ [FluxNode Energy Monitor](https://github.com/cemremete) - IoT Energy Dashboard  
-**Tech:** React, TypeScript, Node.js, Express, WebSocket, Recharts  
-- Real-time energy monitoring with WebSocket streaming and rule-based analytics
-- Power factor anomaly detection with automated reporting
-- Telemetric analysis for voltage imbalance detection
-
-### 📍 [NearCraft](https://github.com/cemremete) - Location-Based Workshop Discovery  
-**Tech:** React, JavaScript, Google Maps Platform API  
-- Interactive map visualization with proximity-based workshop filtering
-- Google Places & Events API integration with optimized API management
-- Real-time geolocation search and RSVP functionality
-
-### 💰 [Finance Tracker](https://github.com/cemremete) - Personal Finance Management  
-**Tech:** Node.js, Express, PostgreSQL, Redis, React, Tailwind CSS, Docker  
-- High-accuracy transaction auto-categorization using microservices
-- JWT authentication with rate limiting and API gateway
-- Redis caching for budget alerts and savings goal tracking
-
-### 🍳 [CookTogether](https://github.com/cemremete) - Real-Time Cooking Collaboration  
-**Tech:** Vue.js, React, Node.js, Go, MongoDB  
-- High-performance Go WebSocket service for real-time collaboration
-- Synchronized recipe timers across multiple timezones
-- Bilingual interface (Turkish/English) with i18n support
-
-### 🎯 [LevelUp Tasks](https://github.com/cemremete) - Gamified Productivity Platform  
-**Tech:** Vue.js 3, Node.js, PostgreSQL, WebSocket  
-- Real-time competitive features with live leaderboards via WebSocket
-- XP progression system and achievement badges
-- RESTful API with JWT authentication and optimized PostgreSQL schema
-
-### 🔧 [Mini DevTools](https://github.com/cemremete) - Lightweight Browser Inspector  
-**Tech:** Vanilla JavaScript, Node.js, HTML, CSS  
-- Zero-dependency browser toolset with DOM inspector and console logger
-- Drag-and-drop interface with keyboard shortcuts
-- LocalStorage persistence for rapid frontend debugging
-
-### 💾 [CodePocket](https://github.com/cemremete) - Vanilla JS Snippet Manager  
-**Tech:** Vanilla JavaScript, HTML5, CSS3  
-- Zero framework dependencies with custom syntax highlighting
-- Tag-based organization with real-time search
-- Theme switching and LocalStorage persistence
 
 ---
 
