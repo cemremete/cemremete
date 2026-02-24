@@ -1,6 +1,5 @@
 ## Hi, I'm Cemre 👋
 
-👨‍💻 Senior year student double majoring in Aeronautical Engineering and Management Information Systems <br>
 🌍 **Currently Based in** Coimbra, Portugal (Erasmus+ Exchange @ Instituto Politécnico de Coimbra)  
 🔭 **Passionate about:** Full-stack JavaScript development, modern web frameworks, and real-time applications  
 🌱 **Currently learning:** Advanced React patterns, Vue.js 3 Composition API, Node.js microservices architecture  
